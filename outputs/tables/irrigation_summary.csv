@@ -1,0 +1,5 @@
+Irrigation_Method,Average_Yield_Tonnes_Ha,Average_Profit_INR,Average_ROI_pct,Average_Water_Efficiency,Average_Water_Usage,Average_Cost_INR
+Drip,6.58,219626.0,41.31,6.27,5918.75,534945.24
+Sprinkler,5.16,91121.08,20.6,4.67,6208.26,526609.22
+Rainfed,4.6,79050.37,16.99,7.56,3549.55,505303.61
+Flood,4.86,73354.02,14.98,3.44,8026.47,536784.13
