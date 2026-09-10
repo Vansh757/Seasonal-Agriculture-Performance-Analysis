@@ -244,4 +244,4 @@ The project demonstrates how Python-based data analytics can be used to explore 
 
 ## 👤 Author
 
-**Anshul Deep Bajpai**
+**Vansh Patel**
